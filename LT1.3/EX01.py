@@ -23,6 +23,6 @@ else:
 soma_impares = sum(n for n in numeros if n % 2 != 0)
 
 # Exibir os resultados
-print(f"\nMédia dos valores entre 10 e 200: {media:.2f}")
+print(f"\nMédia dos valores entre 10 e 200: {media}")
 print(f"Soma dos números ímpares: {soma_impares}")
 
