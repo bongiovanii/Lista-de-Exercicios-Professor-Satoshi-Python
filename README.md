@@ -5,7 +5,7 @@
   <strong>Atenção! Este trabalho foi elaborado  do seguinte modo:</strong>
 </h3> 
 <li>
-    Os exercícios estão dividos em duas pastas para cada "lote" sendo "LT1.1" e "LT1.2"
+    Os exercícios estão dividos em pastas para cada "lote" sendo "LT1.1", "LT1.2" e "LT1.3"
 </li>
 <li>
   Os exercícios sem modularização são categorizados por "EX#.py"
